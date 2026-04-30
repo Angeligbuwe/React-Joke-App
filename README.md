@@ -29,4 +29,4 @@ This project was developed as part of my Web Development coursework.
 
 - The Official Joke API for providing free data
 - Guidance from class materials and instructors 
-- ChatGPT for assistance with debugging and learning concepts
+- ChatGPT for assistance with debugging
