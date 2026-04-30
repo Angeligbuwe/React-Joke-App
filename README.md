@@ -4,6 +4,10 @@
 
 A simple React app that fetches random jokes from an API.
 
+## 📸 Screenshot
+https://github.com/user-attachments/assets/9ebca8c8-e57a-48df-8639-ae08cd57c994
+
+
 ## 🚀 Features
 - Get random jokes with one click
 - Loading state while fetching data
